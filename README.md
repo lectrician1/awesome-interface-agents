@@ -3,7 +3,7 @@ List of AI tools that can interact with user interfaces
 
 ## Segmenters
 * [ScreenAI](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)
-* [Llava]](https://llava-vl.github.io/)
+* [Llava](https://llava-vl.github.io/)
 * [SegmentEverythingEverywhereAllAtOnce](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
 
 ## Web browser
