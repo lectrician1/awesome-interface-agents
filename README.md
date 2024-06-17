@@ -13,7 +13,7 @@ These are still mostly text-based
 
 ## Models
 * [CogAgent](https://github.com/THUDM/CogVLM/tree/main?tab=readme-ov-file#introduction-to-cogagent): CogAgent is an open-source visual language model that can identify regions of areas of UIs to interact with.
-* [https://github.com/agiresearch/AIOS](AIOS): Can interact with operating system
+* [AIOS](https://github.com/agiresearch/AIOS): Can interact with operating system
 
 ## Complete solutions
 * [OpenAdapt.AI](https://openadapt.ai/): AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models
