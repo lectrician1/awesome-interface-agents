@@ -25,6 +25,7 @@ These are still mostly text-based
 * [ScreenAgent](https://github.com/niuzaisheng/ScreenAgent)
 * [Mobile-Agent](https://ar5iv.labs.arxiv.org/html/2401.16158v1)
 * [UI-ACT](https://github.com/TobiasNorlund/UI-Act): An AI agent for interacting with a computer using the graphical user interface
+* [OpenInterpreter](https://github.com/OpenInterpreter/open-interpreter): Uses code to interact with operating system.
 
 ### Closed Source
 * [Adept](https://adept.ai): Company looking to automate everything in software
