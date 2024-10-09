@@ -18,6 +18,7 @@ These are still mostly text-based
 ## Models
 * [CogAgent](https://github.com/THUDM/CogVLM/tree/main?tab=readme-ov-file#introduction-to-cogagent): CogAgent is an open-source visual language model that can identify regions of areas of UIs to interact with.
 * [AIOS](https://github.com/agiresearch/AIOS): Can interact with operating system
+* [Allen AI Molmo](https://molmo.allenai.org/blog): VLM that matches GPT-4V performance with pointing ability.
 
 ## Complete solutions
 ### Open Source
