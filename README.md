@@ -1,5 +1,5 @@
 # awesome-interface-agents
-List of AI tools that can interact with user interfaces
+List of AI tools that can interact with user interfaces. PRs welcome.
 
 ## Segmenters
 * [ScreenAI](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)
