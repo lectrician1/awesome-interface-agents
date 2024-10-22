@@ -16,6 +16,7 @@ These are still mostly text-based
 * [HyperWrite AI Agent](https://www.hyperwriteai.com/personal-assistant)
 
 ## Models
+* [Claude 3.5 Computer Use](https://docs.anthropic.com/en/docs/build-with-claude/computer-use) (Oct 2024): Version of the Claude 3.5 model which supports computer use structured text and image tool inputs and actionable text outputs. 
 * [Llama 3.2](https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/MODEL_CARD_VISION.md) (Sep 2024): The two largest models of the Llama 3.2 collection, 11B and 90B, support image reasoning use cases, such as document-level understanding including charts and graphs, captioning of images, and visual grounding tasks such as directionally pinpointing objects in images based on natural language descriptions.
 * [Molmo](https://molmo.allenai.org/blog) (Sep 2024): VLM that matches GPT-4V performance with pointing ability.
 * [CogAgent](https://github.com/THUDM/CogVLM/tree/main?tab=readme-ov-file#introduction-to-cogagent) (Dec 2023): CogAgent is an open-source visual language model that can identify regions and points of UIs to interact with.
