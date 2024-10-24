@@ -25,6 +25,7 @@ These are still mostly text-based
 ## Complete solutions
 ### Open Source
 * [OpenAdapt.AI](https://openadapt.ai/): AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models
+* [Skyvern](https://github.com/skyvern-ai/skyvern): Browser automation software
 * [ScreenAgent](https://github.com/niuzaisheng/ScreenAgent)
 * [Mobile-Agent](https://ar5iv.labs.arxiv.org/html/2401.16158v1)
 * [UI-ACT](https://github.com/TobiasNorlund/UI-Act): An AI agent for interacting with a computer using the graphical user interface
