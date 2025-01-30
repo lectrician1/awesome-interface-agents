@@ -40,7 +40,8 @@ These are still mostly text-based
 * [LaVague](https://github.com/lavague-ai/LaVague)
 
 #### Closed Source
-* [OpenAI Operator](https://operator.chatgpt.com/): A system using the Computer-Using Agent (CUA) model to interact with the user interface and ask for clarification from the user.
+* [OpenAI Operator](https://operator.chatgpt.com/): A system using the Computer-Using Agent (CUA) model to interact with the user interface and ask for clarification from the user in your browser.
+* [Google Project Mariner](https://deepmind.google/technologies/project-mariner/): Browser extention to interact with pages.
 * [HyperWrite AI Agent](https://www.hyperwriteai.com/personal-assistant)
 
 ## Papers
