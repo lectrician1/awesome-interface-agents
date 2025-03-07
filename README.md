@@ -34,6 +34,7 @@ These are VLMs that support pointing / bounding boxes for user interaction.
 * [AIOS](https://github.com/agiresearch/AIOS): Can interact with operating system as backend.
 
 #### Closed source
+* [Manus AI](https://manus.im/) March 2025
 * [Claude 3.5 Computer Use Cookbook](https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo)
 * [Adept](https://adept.ai): Company looking to automate user interface interaction through ML
 
